@@ -6,7 +6,6 @@ module.exports = {
       title: "GraphQL slides and demo's",
       url: "https://github.com/npalm",
       logoName: 'graphql.svg',
-      iconName: 'graphql/niek.svg'
     }
   }],
 }
