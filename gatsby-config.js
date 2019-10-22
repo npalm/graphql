@@ -2,9 +2,11 @@ module.exports = {
   plugins: [{
     resolve: "@geocine/gatsby-theme-organization",
     options: {
-      organization: "geocine",
-      title: "Fullstack JavaScript Developer",
-      url: "https://github.com/geocine"
+      organization: "npalm",
+      title: "GraphQL slides and demo's",
+      url: "https://github.com/npalm",
+      logoName: 'graphql.svg',
+      iconName: 'niek.svg'
     }
   }],
 }
